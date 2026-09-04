@@ -1,6 +1,6 @@
 -- Please Dont Leak, Making Script is really difficult.
 do
-loadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=9787447947141"))("9787447947141")
+loadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=5167735469912"))("5167735469912")
 end
 do
 loadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=4317483501330"))("4317483501330")
