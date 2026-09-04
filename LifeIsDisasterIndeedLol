@@ -3,5 +3,5 @@ do
 loadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=9787447947141"))("9787447947141")
 end
 do
-loadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=3932922458988"))("3932922458988")
+loadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=4317483501330"))("4317483501330")
 end
